@@ -12,7 +12,7 @@
     <entry>
       <title><![CDATA[Hexo同时托管到Github和Coding中遇到的问题]]></title>
       <url>%2F2016%2F10%2F21%2FHexo%E5%90%8C%E6%97%B6%E6%89%98%E7%AE%A1%E5%88%B0Github%E5%92%8CCoding%E4%B8%AD%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98%2F</url>
-      <content type="text"><![CDATA[在决定写博客前考虑了很多开源的博客的程序，从PHP的wordpress、typecho到jekyll，但最终选择了Hexo，原因就是不想太去过多关注功能性，把重点放到博客的内容上。我的博客选用了Hexo的next主题，喜欢的朋友也可以选择这个主题，传送门 Next 。同时,我也将个人博客同时部到了Github和Codeing.net，下面我将安装的过程遇到的一些问题记录下来，供大家参考，如果有其它问题也可以在文章下方留言，我后面会持续更新。 怎么样安装HexoHexo安装很简单，以Mac为例：先安装Node brew install node 用Node自带npm安装 npm install -g hexo hexo init npm install 启动Hexo hexo server 打开本地的 http://localhost:4000 看到页面安装就完成了 怎么将Hexo部署到Github上怎么将Hexo部署到Coding.net上怎么同时将Hexo博客推到Github和Coding.net上如何在Coding.net的WebIDE上写博客——未完待续]]></content>
+      <content type="text"><![CDATA[在决定写博客前考虑了很多开源的博客的程序，从PHP的wordpress、typecho到jekyll，但最终选择了Hexo，原因就是不想太去过多关注功能性，把重点放到博客的内容上。我的博客选用了Hexo的next主题，喜欢的朋友也可以选择这个主题，传送门 Next 。同时,我也将个人博客同时部到了Github和Codeing.net，下面我将安装的过程遇到的一些问题记录下来，供大家参考，如果有其它问题也可以在文章下方留言，我后面会持续更新。 怎么样安装HexoHexo安装很简单，以Mac为例：先安装Node 1brew install node 用Node自带npm安装 123npm install -g hexohexo initnpm install 启动Hexo 1hexo server 打开本地的 http://localhost:4000 看到页面安装就完成了 怎么将Hexo部署到Github上怎么将Hexo部署到Coding.net上怎么同时将Hexo博客推到Github和Coding.net上如何在Coding.net的WebIDE上写博客——未完待续]]></content>
     </entry>
 
     
